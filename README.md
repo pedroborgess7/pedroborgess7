@@ -27,7 +27,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedroborgess7&show_icons=true&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=pedroborgess7&theme=tokyonight" />
 </p>
 
 ---
