@@ -1,4 +1,4 @@
-<h1 align="center">👋 Fala, eu sou o Pedro</h1>
+<h1 align="center">👋 Olá, eu sou o Pedro</h1>
 
 <p align="center">
   💻 Estudante de ADS | Futuro DevOps <br>
@@ -8,7 +8,7 @@
 ---
 
 ### 🧠 Sobre mim
-- 📚 Estudando Python, Linux e Cloud
+- 📚 Estudando Python, Pandas, SQL e Cloud
 - 🏢 Atualmente trabalho na DHL com operações internacionais
 - 🎯 Focado em crescer na área de tecnologia
 
@@ -16,9 +16,9 @@
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
