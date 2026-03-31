@@ -29,6 +29,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedroborgess7&show_icons=true&theme=dark" />
 </p>
+
 ---
 
 ### 🌐 Contato
