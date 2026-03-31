@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;Java+Developer;Data+Enthusiast" />
 </p>
-<h1 align="center">👋 Pedro Borges | Python & Data Developer”</h1>
+<h1 align="center">👋 Pedro Borges | Python & Data Developer</h1>
 
 <p align="center">
   💻 Estudante de ADS | Futuro DevOps <br>
@@ -29,7 +29,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedroborgess7&show_icons=true&theme=dark" />
 </p>
-
 ---
 
 ### 🌐 Contato
