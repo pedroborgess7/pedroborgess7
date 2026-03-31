@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;Java+Developer;Data+Enthusiast" />
 </p>
-<h1 align="center">👋 Pedro Borges | Python & Data Developer</h1>
+<h1 align="center">👋 Pedro Borges | Backend Developer | Java & Python</h1>
 <hr style="border: 1px solid #1f6feb;">
 
 <p align="center">
