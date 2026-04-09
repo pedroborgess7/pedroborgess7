@@ -1,28 +1,30 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=25&center=true&vCenter=true&width=600&lines=Python+Developer;Java+Developer;Data+Enthusiast" />
 </p>
-<h1 align="center">👋 Pedro Borges | Python Developer </h1>
+<h1 align="center">👋 Pedro Borges | Junior Developer </h1>
 <hr style="border: 1px solid #1f6feb;">
 
 <p align="center">
-  💻 Estudante de ADS | Futuro DevOps <br>
+  💻 Estudante de ADS |  DevOps <br>
   🚀 Em busca da primeira oportunidade em TI
 </p>
 
 ---
 
 ### 🧠 Sobre mim
-- 📚 Estudando Python, Pandas, SQL e Cloud
+- 📚 Estudando Java, Spring Boot, MongoDB , Cloud e WebServices
 - 🏢 Atualmente trabalho na DHL com operações internacionais
 - 🎯 Focado em crescer na área de tecnologia
 
 ---
 
-### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas&logoColor=white)
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
